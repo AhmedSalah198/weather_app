@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import plotly.express as px
 import streamlit as st
 
 st.markdown("<h1 style='text-align: center; font-size: 45px;'>Full Project video </h1>", unsafe_allow_html=True)
@@ -268,12 +267,3 @@ st.write("- In more developed countries the temperature began to register higher
 st.write("- Governments should be more aware of the upcoming danger, as it is an upcoming danger for everyone") 
 
 st.write("- Nuclear reaction experiments must be stopped, and freon production must be stopped in a larger way") 
-
-
-
-
-
-
-
-
-
