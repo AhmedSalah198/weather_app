@@ -34,7 +34,7 @@ st.markdown("<h1 style='text-align: center; font-size: 30px;'>Content</h1>", uns
 
 st.write("1- introdution")
 st.write("2- data set")
-st.write("3- data wrangling")
+st.write("3- data handling")
 st.write("4- Exploratory data analysis")                 
 st.write("5- conclusion")
 st.write("6- what will future climate be like")
@@ -45,8 +45,8 @@ st.markdown("<h1 style='text-align: center; font-size: 30px;'>01- INTRODUCTION</
 
 
 #Disply Introduction Data
-st.write("Because of noticing the large change in the state of the climate during the past recent years, I decided to study the temperatures over the years to know the factors affecting this great change.")
-
+#Disply Introduction Data
+st.write("Because of noticing the large change in the state of the climate during the past recent years, I decided to study the temperatures over the years to know when that change in climate pattern heppend and what is the factors affecting this great change .")
 
 
 #Video Formating
@@ -88,7 +88,7 @@ st.write("- LandMaxTemperatureUncertainty: the 95% confidence interval around th
 
 st.markdown("------")
 
-st.markdown("<h1 style='text-align: CENTER; font-size: 30px;'>03 DATA WRANGLING</h1>",unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: CENTER; font-size: 30px;'>03 DATA HANDILING</h1>",unsafe_allow_html=True)
 st.write(" - Load and explore ")
 image = st.image("Screenshot_4.png")
 st.write(" - clean ")
