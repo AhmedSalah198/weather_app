@@ -49,10 +49,6 @@ st.markdown("<h1 style='text-align: center; font-size: 30px;'>01- INTRODUCTION</
 st.write("Because of noticing the large change in the state of the climate during the past recent years, I decided to study the temperatures over the years to know when that change in climate pattern heppend and what is the factors affecting this great change .")
 
 
-#Video Formating
-#st.markdown("<h1 style='text-align: Left; font-size: 25px;'>Global wormaing video</h1>", #unsafe_allow_html=True)
-#st.video('ask.mp4')
-
 st.markdown("-----")
 
 st.markdown("<h1 style='text-align: Left; font-size: 25px;'>what is climate change?</h1>", unsafe_allow_html=True)
