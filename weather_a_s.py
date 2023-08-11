@@ -45,7 +45,7 @@ st.markdown("<h1 style='text-align: center; font-size: 30px;'>01- INTRODUCTION</
 
 
 #Disply Introduction Data
-st.write("After the horrors that happened this year in Australia and Brazil, I decided to take a look at global temperatures and how exactly are they evolving and have been evolving over the years.")
+st.write("Because of noticing the large change in the state of the climate during the past recent years, I decided to study the temperatures over the years to know the factors affecting this great change.")
 
 
 
@@ -56,9 +56,7 @@ st.write("After the horrors that happened this year in Australia and Brazil, I d
 st.markdown("-----")
 
 st.markdown("<h1 style='text-align: Left; font-size: 25px;'>what is climate change?</h1>", unsafe_allow_html=True)
-st.write("Change In Climate Patterns ")
-st.write("very apparent at the start of the 20th century")
-
+st.write("It is a change in temperature in a certain period from its normal range ")
 st.markdown("-----")
 
 st.markdown("<h1 style='text-align: Left; font-size: 25px;'>what does climate change effects?</h1>", unsafe_allow_html=True)
