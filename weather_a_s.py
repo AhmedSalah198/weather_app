@@ -2,17 +2,17 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-#st.markdown("<h1 style='text-align: center; font-size: 45px;'>Full Project video </h1>", unsafe_allow_html=True)
-#st.markdown("<h1 style='text-align: center; font-size: 45px;'> Editied by Ahmed Salah</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; font-size: 45px;'>Full Project video </h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; font-size: 45px;'> Editied by Ahmed Salah</h1>", unsafe_allow_html=True)
 
-#Video
-#st.video('ask.mp4')
-#st.markdown('----')
-#st.markdown('----')
-#st.markdown('----')
-#st.markdown('----')
-#st.markdown('----')
-#st.markdown('----')
+Video
+st.video('ask.mp4')
+st.markdown('----')
+st.markdown('----')
+st.markdown('----')
+st.markdown('----')
+st.markdown('----')
+st.markdown('----')
 
 #Display the Page Title
 Page_Title= st.markdown("<h1 style='text-align: center; font-size: 45px;'>Climate Change - Global Warming</h1>", unsafe_allow_html=True)
