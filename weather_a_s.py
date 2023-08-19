@@ -5,7 +5,7 @@ import streamlit as st
 st.markdown("<h1 style='text-align: center; font-size: 45px;'>Full Project video </h1>", unsafe_allow_html=True)
 st.markdown("<h1 style='text-align: center; font-size: 45px;'> Editied by Ahmed Salah</h1>", unsafe_allow_html=True)
 
-Video
+#Video
 st.video('ask.mp4')
 st.markdown('----')
 st.markdown('----')
